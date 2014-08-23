@@ -248,7 +248,7 @@ Public Class NuCRUD
         cariby.DisplayMember = "Value"
         cariby.ValueMember = "Key"
         Dim ComboValues As New List(Of DictionaryEntry)
-        ComboValues.Add(New DictionaryEntry("All", "Semua"))
+        ComboValues.Add(New DictionaryEntry("All", "All"))
         For Each nf As NuField In table.fields
             If nf.searchable Then
                 ComboValues.Add(New DictionaryEntry(nf.name, nf.title))
@@ -267,7 +267,7 @@ Public Class NuCRUD
         addSearchBox()
         addCari()
         addReset()
-        add.Text = "Tambah Baru"
+        add.Text = "Add New"
         add.Anchor = AnchorStyles.Top Or AnchorStyles.Right
         'add.Dock = DockStyle.Right
         add.Top = search.Top
@@ -280,7 +280,7 @@ Public Class NuCRUD
 
     Private Sub addCari()
         cari.Cursor = Cursors.Hand
-        cari.Text = "Cari"
+        cari.Text = "Search"
         cari.Top = cariby.Top
         cari.Left = cariby.Left + cariby.Width + 5
         cari.Height = search.Height
@@ -389,7 +389,7 @@ Public Class NuCRUD
         Else
             Dim ntotal As Integer = CInt(total)
             totalpage = Int(ntotal / limit) + 1
-            lblPage.Text = "Halaman " & page.ToString("#,###,###") & " dari " & totalpage.ToString("#,###,###") & ", Total Records : " & ntotal.ToString("#,###,###")
+            lblPage.Text = "Page " & page.ToString("#,###,###") & " Of " & totalpage.ToString("#,###,###") & ", Total Records : " & ntotal.ToString("#,###,###")
         End If
     End Sub
     Private Function addOrder()
