@@ -1,0 +1,10 @@
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.LIB.Resources.resources
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.LIB.vbproj.GenerateResource.Cache
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\bin\Debug\NuCRUD.NET.LIB.dll
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\bin\Debug\NuCRUD.NET.LIB.pdb
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\bin\Debug\NuCRUD.NET.LIB.xml
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.LIB.NuForm.resources
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.LIB.dll
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.LIB.xml
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.LIB.pdb
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.LIB.Form1.resources

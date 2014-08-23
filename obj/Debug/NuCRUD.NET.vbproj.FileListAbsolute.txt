@@ -1,0 +1,11 @@
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.Resources.resources
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.NuForm.resources
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.vbproj.GenerateResource.Cache
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\bin\Debug\NuCRUD.NET.dll
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\bin\Debug\NuCRUD.NET.pdb
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\bin\Debug\NuCRUD.NET.xml
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.dll
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.xml
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.pdb
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\Interop.ADODB.dll
+C:\Users\nubuntu\Documents\GitHub\NuCRUD.NET.LIB\obj\Debug\NuCRUD.NET.vbproj.ResolveComReference.cache
