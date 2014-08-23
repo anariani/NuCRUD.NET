@@ -11,6 +11,7 @@ Generic Database Library (Multiple Connection Type) For .NET
 - Ready to Work with NuCRUD.NET Library
 
 ## Connect to Database ##
+![Alt text](http://www.youtube.com/watch?v=OY1vv7hQQCg)
 - See connection string example in http://www.connectionstrings.com/
 - Specify your Database Driver, in this case I use mysql connection http://www.connectionstrings.com/mysql/
 - Test Your DB Connection
