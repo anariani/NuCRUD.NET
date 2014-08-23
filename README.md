@@ -14,6 +14,7 @@ Generic Database Library (Multiple Connection Type) For .NET
 - See connection string example in http://www.connectionstrings.com/
 - Specify your Database Driver, in this case I use mysql connection http://www.connectionstrings.com/mysql/
 - Test Your DB Connection
+
         Dim connstring = "Server=localhost;Database=nucrud;Uid=root;Pwd=root;"
         Dim db As New NuDB(NuDB.MYSQL, connstring)
         If db.connect Then
